@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ceomngts
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in solidity based program
 - 💞️ I’m looking to collaborate on blockchain devlopment
 - 📫 How to reach me info@mngts.io ceo@mngts.io
 
